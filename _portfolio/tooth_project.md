@@ -1,6 +1,6 @@
 ---
 title: "Medical Oral Software"
-excerpt: "Acceleration and Reconstruction<br/><img src='https://github.com/Zhouyuan-Chen/Zhouyuan-Chen.github.io/images/tooth_project.png'>"
+excerpt: "Acceleration and Reconstruction<br/><img src='bio-photo-2.jpg'>"
 collection: portfolio
 ---
 
