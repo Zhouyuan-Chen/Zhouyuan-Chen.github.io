@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Zhejiang, China    Zhejiang University of Technology, 2023
+* B.E. in Zhejiang, China    Zhejiang University of Technology, 2023
 * M.S. in New York, United State    New York University, 2025（expected）
 
 Work experience
