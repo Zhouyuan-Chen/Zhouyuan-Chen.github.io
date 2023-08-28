@@ -4,7 +4,7 @@ excerpt: "Acceleration and Reconstruction<br/><img src='/images/tooth/main.png' 
 collection: portfolio
 ---
 
-# Tooth Medical Software - Pictures
+# Medical Oral Software--Virtual Gums
 
 "Virtual Gums" stands as a medical software for oral health, a project I participated in developing. My primary duties encompassed two critical areas: collision detection and the creation of concave tooth structures. Notably, the software's standout capability lies in its swift identification and visual representation of potential points of contact between teeth. Capitalizing on this project, I learned and implemented multiple collision acceleration methods, which were consolidated into the ColCal Collision Library(you can find it on my GitHub profile).
 
