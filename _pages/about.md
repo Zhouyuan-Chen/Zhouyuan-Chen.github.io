@@ -16,14 +16,12 @@ Hi! My name is Zhouyuan Chen, a master student at the Courant Institute of New Y
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Nd3cR4?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
-<img decoding="async" src="/images/smoothing.png" width="50%">
+<img decoding="async" src="/images/smoothing.png">
 
-<img decoding="async" src="/images/reconstruction.png" width="50%">
+<img decoding="async" src="/images/reconstruction.png">
 
-<img decoding="async" src="/images/reconstruction.png" width="50%">
+<img decoding="async" src="/images/rt0.png">
 
-<img decoding="async" src="/images/rt0.png" width="50%">
+<img decoding="async" src="/images/rt1.png">
 
-<img decoding="async" src="/images/rt1.png" width="50%">
-
-<img decoding="async" src="/images/rt2.png" width="50%">
+<img decoding="async" src="/images/rt2.png">
