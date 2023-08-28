@@ -1,12 +1,12 @@
 ---
-title: "Medical Oral Software"
-excerpt: "Acceleration and Reconstruction<br/><img src='/images/tooth/main.png'>"
+title: "Medical Oral Software--Virtual Gums"
+excerpt: "Acceleration and Reconstruction<br/><img src='/images/tooth/main.png' width="30%">"
 collection: portfolio
 ---
 
 # Tooth Medical Software - Pictures
 
-Here I would like to introduce the collision detection and visualization work related to oral teeth that I participated in during my undergraduate studies
+"Virtual Gums" stands as a medical software for oral health, a project I participated in developing. My primary duties encompassed two critical areas: collision detection and the creation of concave tooth structures. Notably, the software's standout capability lies in its swift identification and visual representation of potential points of contact between teeth. Capitalizing on this project, I learned and implemented multiple collision acceleration methods, which were consolidated into the ColCal Collision Library(you can find it on my GitHub profile).
 
 ## Collision Detection Part Features：
 
@@ -24,7 +24,7 @@ Here I would like to introduce the collision detection and visualization work re
 
 * Performance
 
-**this video may not fully display all funtions mentioned behind, I will update video later...**
+**this video may not fully display all funtions mentioned above, I will update video later...**
 
 [![Video](/images/tooth/video%20poster1.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
 
@@ -41,6 +41,7 @@ Here I would like to introduce the collision detection and visualization work re
 * Undercut Generation Results
 
 **note:Demonstration using the tooth mesh and the undercut mesh after calculation and export on MeshLab**
+
 <img decoding="async" src="/images/tooth/undercut-final%20result.png" width="50%">
 
 * Performance
