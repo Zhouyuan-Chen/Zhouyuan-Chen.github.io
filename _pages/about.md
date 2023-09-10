@@ -10,7 +10,7 @@ redirect_from:
 
 Currently, I'm a graduate student studying at NYU Courant Institute, interested in Computer Graphics. The most romantic thing I can imagine is using code to visualize this world!! 
 
-# Computer Graphics is Amazing!
+# Computer Graphics is Amazing
 
 There are some small projects I made before related to Computer Graphics. You can also check the "Portfolio" page, which includes my previous research projects.
 
@@ -30,6 +30,7 @@ There are some small projects I made before related to Computer Graphics. You ca
 |<img decoding="async" src="/images/parameterization00.png"> | <img decoding="async" src="/images/parameterization20.png">|<img decoding="async" src="/images/parameterization21.png"> |
 
 ## [Rendering Engine Toy](https://github.com/Zhouyuan-Chen/RayTracingInOneWeek)
+
 | | |
 | -- | -- |
 |<img decoding="async" src="/images/rt0.png" width="50%"> | |
