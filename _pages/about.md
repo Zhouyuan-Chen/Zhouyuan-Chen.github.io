@@ -33,14 +33,16 @@ There are some small projects I made before related to Computer Graphics. You ca
 
 | | | |
 | -- | -- | -- |
-|<img decoding="async" src="/images/rt0.png" width="50%"> | <img decoding="async" src="/images/rt1.png" width="50%"> | <img decoding="async" src="/images/rt2.png" width="50%">  |
+|<img decoding="async" src="/images/rt1.png" width="50%"> |   | |
+|<img decoding="async" src="/images/rt2.png" width="50%"> | | |
 
 ## Simulation
 With online tutorial(tenMinutePhysics/CSC417-physics-based-animation), I self-schooled some simulation stuff, FEM and fluid simulation.
 
 | | |
 | -- | -- |
-|<img decoding="async" src="/images/simulation.png" width="50%"> |<img decoding="async" src="/images/simulation1.png" width="50%"> |
+|<img decoding="async" src="/images/simulation.png" width="50%"> | |
+|<img decoding="async" src="/images/simulation1.png" width="50%"> | |
 
 ## [ColCal(Collision Calculation Library)](https://github.com/Cavers-Chen/ColCal)
 
