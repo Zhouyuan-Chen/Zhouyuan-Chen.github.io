@@ -22,7 +22,7 @@ There are some small projects I made before related to Computer Graphics. You ca
 ## Geometry Processing
 <img decoding="async" src="/images/smoothing.png">
 
-<img decoding="async" src="/images/reconstruction.png">
+<img decoding="async" src="/images/reconstruction.png" width="50%">
 
 | | | |
 |-- | -- | -- |
@@ -30,23 +30,22 @@ There are some small projects I made before related to Computer Graphics. You ca
 |<img decoding="async" src="/images/parameterization00.png"> | <img decoding="async" src="/images/parameterization20.png">|<img decoding="async" src="/images/parameterization21.png"> |
 
 ## [Rendering Engine Toy](https://github.com/Zhouyuan-Chen/RayTracingInOneWeek)
-<img decoding="async" src="/images/rt0.png">
-
-<img decoding="async" src="/images/rt1.png">
-
-<img decoding="async" src="/images/rt2.png">
+| |
+|--|
+|<img decoding="async" src="/images/rt0.png" width="50%"> |
+|<img decoding="async" src="/images/rt1.png" width="50%"> |
+|<img decoding="async" src="/images/rt2.png" width="50%"> |
 
 ## Simulation
 With online tutorial(tenMinutePhysics/CSC417-physics-based-animation), I self-schooled some simulation stuff, FEM and fluid simulation.
 
-<img decoding="async" src="/images/simulation.png">
+| | |
+| -- | -- |
+|<img decoding="async" src="/images/simulation.png"> | <img decoding="async" src="/images/simulation1.png">|
 
-<img decoding="async" src="/images/simulation1.png">
+## [ColCal(Collision Calculation Library)](https://github.com/Cavers-Chen/ColCal)
 
-## ColCal(Collision Calculation Library)
-
-I made a collision detection library in 2023spring. I call it ColCal(Collision Calculation Library). Now you can check the source code by clicking this link!
-* [source code](https://github.com/Cavers-Chen/ColCal)
+I made a collision detection library in 2023spring. I call it ColCal(Collision Calculation Library). You can check the source code on my GitHub!
 ```
 /////////////////////////////////////////////////////////////////
 ///////       COLLISION CALCULATION LIBRARY (ColCal)      ///////
@@ -64,5 +63,4 @@ I made a collision detection library in 2023spring. I call it ColCal(Collision C
 I spent a summer with my friend made this cool game(we call it FIFA) when we were first year college students, we even made a simple UI for players to choose a country and log their accounts. 
 I also made some simple games, you can click the "Mini Games" tag to explore more.
 
-<img decoding="async" src="/images/game1.png">
-
+<img decoding="async" src="/images/game1.png" width="50%">
