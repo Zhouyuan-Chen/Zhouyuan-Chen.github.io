@@ -12,7 +12,7 @@ Currently, I'm a graduate student studying at NYU Courant Institute, interested 
 
 # Computer Graphics is Amazing
 
-There are some small projects I made before related to Computer Graphics. You can also check the "Portfolio" page, which includes my previous research projects.
+There are figures of some projects I made before related to Computer Graphics. You can also check the "Portfolio" page, which includes my previous research projects.
 
 ## ShaderToy
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/fs3cRn?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
