@@ -30,18 +30,18 @@ There are some small projects I made before related to Computer Graphics. You ca
 |<img decoding="async" src="/images/parameterization00.png"> | <img decoding="async" src="/images/parameterization20.png">|<img decoding="async" src="/images/parameterization21.png"> |
 
 ## [Rendering Engine Toy](https://github.com/Zhouyuan-Chen/RayTracingInOneWeek)
-| |
-|--|
-|<img decoding="async" src="/images/rt0.png" width="50%"> |
-|<img decoding="async" src="/images/rt1.png" width="50%"> |
-|<img decoding="async" src="/images/rt2.png" width="50%"> |
+| | |
+|--| -- |
+|<img decoding="async" src="/images/rt0.png" width="50%"> | |
+|<img decoding="async" src="/images/rt1.png" width="50%"> |<img decoding="async" src="/images/rt2.png" width="50%">  |
 
 ## Simulation
 With online tutorial(tenMinutePhysics/CSC417-physics-based-animation), I self-schooled some simulation stuff, FEM and fluid simulation.
 
 | | |
 | -- | -- |
-|<img decoding="async" src="/images/simulation.png"> | <img decoding="async" src="/images/simulation1.png">|
+|<img decoding="async" src="/images/simulation.png"> | |
+|<img decoding="async" src="/images/simulation1.png"> | |
 
 ## [ColCal(Collision Calculation Library)](https://github.com/Cavers-Chen/ColCal)
 
