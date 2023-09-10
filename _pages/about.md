@@ -31,8 +31,9 @@ There are some small projects I made before related to Computer Graphics. You ca
 
 ## [Rendering Engine Toy](https://github.com/Zhouyuan-Chen/RayTracingInOneWeek)
 
-<img decoding="async" src="/images/rt1.png" width="30%">
-<img decoding="async" src="/images/rt2.png" width="30%"> 
+| | | |
+|-- |-- |-- |
+| |<img decoding="async" src="/images/rt1.png" width="50%"> |<img decoding="async" src="/images/rt2.png" width="50%">  |
 
 ## Simulation
 With online tutorial(tenMinutePhysics/CSC417-physics-based-animation), I self-schooled some simulation stuff, FEM and fluid simulation.
