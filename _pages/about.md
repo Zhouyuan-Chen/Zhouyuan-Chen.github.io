@@ -31,7 +31,7 @@ There are some small projects I made before related to Computer Graphics. You ca
 
 ## [Rendering Engine Toy](https://github.com/Zhouyuan-Chen/RayTracingInOneWeek)
 | | |
-|--| -- |
+| -- | -- |
 |<img decoding="async" src="/images/rt0.png" width="50%"> | |
 |<img decoding="async" src="/images/rt1.png" width="50%"> |<img decoding="async" src="/images/rt2.png" width="50%">  |
 
@@ -40,8 +40,8 @@ With online tutorial(tenMinutePhysics/CSC417-physics-based-animation), I self-sc
 
 | | |
 | -- | -- |
-|<img decoding="async" src="/images/simulation.png"> | |
-|<img decoding="async" src="/images/simulation1.png"> | |
+|<img decoding="async" src="/images/simulation.png" width="50%"> | |
+|<img decoding="async" src="/images/simulation1.png" width="50%"> | |
 
 ## [ColCal(Collision Calculation Library)](https://github.com/Cavers-Chen/ColCal)
 
