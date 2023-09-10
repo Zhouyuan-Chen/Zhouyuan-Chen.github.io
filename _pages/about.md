@@ -32,14 +32,14 @@ There are some small projects I made before related to Computer Graphics. You ca
 ## [Rendering Engine Toy](https://github.com/Zhouyuan-Chen/RayTracingInOneWeek)
 
 <center class="half">
-     <img decoding="async" src="/images/rt1.png" width="50%"><img decoding="async" src="/images/rt2.png" width="50%"> 
+    <img src="/images/rt1.png" width="50"/><img src="/images/rt2.png" width="50"/>
  </center>
 
 ## Simulation
 With online tutorial(tenMinutePhysics/CSC417-physics-based-animation), I self-schooled some simulation stuff, FEM and fluid simulation.
 
 <center class="half">
-     <img decoding="async" src="/images/simulation.png" width="30%"><img decoding="async" src="/images/simulation1.png" width="30%"> 
+    <img src="/images/simulation.png" width="50"/><img src="/images/simulation1.png" width="50"/>
  </center>
 
 ## [ColCal(Collision Calculation Library)](https://github.com/Cavers-Chen/ColCal)
