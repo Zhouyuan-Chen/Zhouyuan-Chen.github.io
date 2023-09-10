@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Zhouyuan Chen, a master student at the Courant Institute of New York University. My research insterest is Geometry Processing and Physically Based Simulation. I really enjoy the process dipicting the world with Computer Graphics Technique.
+Currently, I'm a graduate student studying at NYU Courant Institute, interested in Computer Graphics. The most romantic thing I can imagine is using code to visualize this world!! 
 
 # Computer Graphics is Amazing!
 
