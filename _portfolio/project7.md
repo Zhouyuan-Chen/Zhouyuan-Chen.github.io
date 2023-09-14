@@ -4,7 +4,11 @@ excerpt: "Acceleration and Reconstruction<br/><img src='/images/tooth/main.png' 
 collection: portfolio
 ---
 
-"Virtual Gums" stands as a medical software for oral health, a project I participated in developing. My primary duties encompassed two critical areas: collision detection and the creation of concave tooth structures. Notably, the software's standout capability lies in its swift identification and visual representation of potential points of contact between teeth. Capitalizing on this project, I learned and implemented multiple collision acceleration methods, which were consolidated into the ColCal Collision Library(you can find it on my GitHub profile).
+Virtual Gums is a medical software for dentists. I participated in developing and take care of two main parts of this software, collision detection and undercut generation.
+
+For the collision detection, my duty is using accelerat structure and algorithms to make this process more faster(detect the collision between arbitrary two teeth, print out their distance and visualize the collision area.). The final version takes within 200 ms per computation. Comparing to the 2-3 min at the beginning, it is a giant improvement.(this is one of Virtual Gums's goal -- faster than existed Chinese medical softwares' collision detection's computation) 
+
+For the undercut generation, my duty is designing a specific algorithm to generate the undercut model automatically. Due to I leave my bachelor school, this part code I have passed to senior students to maintain.
 
 ## Collision Detection Part Features：
 

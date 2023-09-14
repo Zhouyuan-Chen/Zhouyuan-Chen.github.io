@@ -4,9 +4,22 @@ excerpt: "A Game Collection that you can play! <br/><img src='/images/game1.png'
 collection: portfolio
 ---
 
-## [Mini Games](https://github.com/Zhouyuan-Chen/MyGames) 
+## Mini Games
+
+there are some mini games that can kill time, hope you can enjoy them
+
+- Game List
+- - flappy bird
+- - Game of Life
+- - Arkanoid
+- - Airplane War
+- - Snake
+- - Bravely enter the 100th floor of the basement
+- - FIFA
+
+[--download link--](https://github.com/Zhouyuan-Chen/MyGames) 
+
+I spent a summer with my friend made the game FIFA when we were first year college students, we even made a simple UI for players to choose a country and log their accounts. 
 
 <img decoding="async" src="/images/game1.png" width="100%">
 
-I spent a summer with my friend made this cool game(we call it FIFA) when we were first year college students, we even made a simple UI for players to choose a country and log their accounts. 
-I also made some simple games, you can click the "Mini Games" tag to explore more.

@@ -4,9 +4,12 @@ excerpt: "Self-Made Collision Detection Library<br/><img src='/images/colcal.png
 collection: portfolio
 ---
 
-## [ColCal(Collision Calculation Library)](https://github.com/Cavers-Chen/ColCal)
+## ColCal(Collision Calculation Library)
 
 I made a collision detection library in 2023spring. I call it ColCal(Collision Calculation Library). You can check the source code on my GitHub!
+
+[--Repository Link--](https://github.com/Cavers-Chen/ColCal)
+
 ```
 /////////////////////////////////////////////////////////////////
 ///////       COLLISION CALCULATION LIBRARY (ColCal)      ///////
