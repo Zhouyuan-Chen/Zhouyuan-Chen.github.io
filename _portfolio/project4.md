@@ -1,6 +1,6 @@
 ---
 title: "Geometry Processing"
-excerpt: "<br/><img src='/images/subdivide.png' width='30%'>"
+excerpt: "<br/>Geometry Processing Learning<img src='/images/subdivide.png' width='30%'>"
 collection: portfolio
 ---
 
