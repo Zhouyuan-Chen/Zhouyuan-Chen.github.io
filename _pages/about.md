@@ -12,10 +12,10 @@ redirect_from:
 
 ## About Me
 
-Hello! My name is Zhouyuan Chen(Zhouyuan could be pronounced like Chow-yan, you can also call me Cavers if you feel it is more easier for you to pronounce).
+Hello! My name is Zhouyuan Chen(Zhouyuan could be pronounced like Chow-yan, you can also call me Cavers if you feel it is easier for you to pronounce).
 
 Currently, I'm a graduate student studying at NYU Courant Institute, interested in Computer Graphics. I'm still trying different topics of Computer Graphics since I'm curious about many CG problems and hope can get a general vision of them all for now. After that, I would focus on a specific problem to have further learning in the future if I manage to do a PhD(hope so). 
 
-If you ask me why my favorite subject is Computer Graphics. The answer would be the most romantic thing I can imagine is using code to dipict this world! 
+If you ask me why my favorite subject is Computer Graphics. The answer would be the most romantic thing I can imagine is using code to depict this world! 
 
-You can check the "Projects" page, which includes my previous projects.
+You can check the "Projects" page, which includes my selected previous projects related to Computer Graphics.
