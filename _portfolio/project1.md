@@ -17,7 +17,7 @@ there are some mini games that can kill time, hope you can enjoy them
 - - Bravely enter the 100th floor of the basement
 - - FIFA
 
-[--download link--](https://github.com/Zhouyuan-Chen/MyGames) 
+[-- Download Link --](https://github.com/Zhouyuan-Chen/MyGames) 
 
 I spent a summer with my friend made the game FIFA when we were first year college students, we even made a simple UI for players to choose a country and log their accounts. 
 

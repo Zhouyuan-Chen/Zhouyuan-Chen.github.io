@@ -8,9 +8,9 @@ collection: portfolio
 
 I made a collision detection library in 2023spring. I call it ColCal(Collision Calculation Library). You can check the source code on my GitHub!
 
-[--Repository Link--](https://github.com/Cavers-Chen/ColCal)
+[-- Repository Link --](https://github.com/Cavers-Chen/ColCal)
 
-```
+``````
 /////////////////////////////////////////////////////////////////
 ///////       COLLISION CALCULATION LIBRARY (ColCal)      ///////
 ///////  _____   _____   _       _____       ___   _      ///////
@@ -138,4 +138,4 @@ I made a collision detection library in 2023spring. I call it ColCal(Collision C
 // the order of vertieces' idex: v1->v2->v3
 // 
 /////////////////////////////////////////////////////////////////
-```
+``````
