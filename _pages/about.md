@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-Hello! My name is Zhouyuan Chen(Zhouyuan Chen could be pronounced like Jo-Yen Chan, you can also call me Cavers if you feel it is easier for you to pronounce).
+Hello! My name is Zhouyuan Chen(Zhouyuan Chen could be pronounced like Jo-Yan Chan, you can also call me Cavers if you feel it is easier for you to pronounce).
 
 Currently, I'm a graduate student studying at NYU Courant Institute, interested in Computer Graphics. I'm still trying different topics of Computer Graphics since I'm curious about many CG problems and hope can get a general vision of them all for now. After that, I would focus on a specific problem to have further learning in the future if I manage to do a PhD(hope so). 
 
