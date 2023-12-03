@@ -16,7 +16,7 @@ Hello! My name is Zhouyuan Chen(Zhouyuan Chen could be pronounced like Jo-Yan Ch
 
 Currently, I'm a graduate student studying at the New York University Courant Institute, interested in Computer Graphics. And I am fortunate to have the opportunity to work in the [NYU Geometric Computing Lab](https://cims.nyu.edu/gcl/people.html) now, supervised by Professor [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) and Professor [Daniel Zint](https://daniel-zint.github.io/). Before that, I was supervised by Professor [Jiazhou Chen](https://californiachen.github.io/) at Zhejiang University of Technology.
 
-I'm still accumulating the basic knowledge(PDE currently...) and trying different topics of Computer Graphics since I'm curious about many CG problems and hope can get a general vision of them all for now. After that, I would focus on a specific problem to have further learning in the future if I manage to do a PhD(hope so). 
+I'm still accumulating the basic knowledge and trying different topics of Computer Graphics since I'm curious about many CG problems and hope can get a general vision of them all for now. After that, I would focus on a specific problem to have further learning in the future if I manage to do a PhD(hope so). 
 
 If you ask me why my favorite subject is Computer Graphics. The answer would be the most romantic thing I can imagine is using code to depict this world! 
 
