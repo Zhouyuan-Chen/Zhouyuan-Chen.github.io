@@ -1,14 +1,12 @@
 ---
-title: "Medical Oral Software -- Virtual Gums"
-excerpt: "Acceleration and Reconstruction<br/><img src='/images/tooth/main.png' width='40%'>"
+title: "Tooth Model Collision Visualization and Acceleration"
+excerpt: "Collision Computation Acceleration<br/><img src='/images/tooth/main.png' width='40%'>"
 collection: portfolio
 ---
 
-Virtual Gums is a medical software for dentists. I participated in developing and take care of two main parts of this software, collision detection and undercut generation.
+Virtual Gums is a medical software for dentists. I participated in developing the collision detection(broad phase) in this project.
 
-For the collision detection, my duty is using accelerat structure and algorithms to make this process more faster(detect the collision between arbitrary two teeth, print out their distance and visualize the collision area.). The final version takes within 200 ms per computation. Comparing to the 2-3 min at the beginning, it is a giant improvement.(this is one of Virtual Gums's goal -- faster than existed Chinese medical softwares' collision detection's computation) 
-
-For the undercut generation, my duty is designing a specific algorithm to generate the undercut model automatically. Due to I leave my bachelor school, this part code I have passed to senior students to maintain.
+For collision detection, my duty is to use the existing algorithms to make the company's software run faster and also add some extra features(detect the collision between arbitrary two teeth, then print out the apart or embedded distance and visualize the collision area.). The final version takes within 200 ms per computation. Compared to the 2-3 mins at the beginning, it is an improvement.
 
 ## Collision Detection Part Features：
 
@@ -26,26 +24,6 @@ For the undercut generation, my duty is designing a specific algorithm to genera
 
 * Performance
 
-**this video may not fully display all funtions mentioned above, I will update video later...**
+**this is an early demo video, which doesn't fully display all funtions mentioned above**
 
 [![Video](/images/tooth/video%20poster1.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
-
-## Restruction of Tooth Undercut Features
-
-* Handmade Undercut
-
-<img decoding="async" src="/images/tooth/undercut-example.jpg" width="50%">
-
-* Original Tooth Model
-
-<img decoding="async" src="/images/tooth/tooth%20model-non%20effect.png" width="50%">
-
-* Undercut Generation Results
-
-**note:Demonstration using the tooth mesh and the undercut mesh after calculation and export on MeshLab**
-
-<img decoding="async" src="/images/tooth/undercut-final%20result.png" width="50%">
-
-* Performance
-
-[![Video](/images/tooth/video%20poster2.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
