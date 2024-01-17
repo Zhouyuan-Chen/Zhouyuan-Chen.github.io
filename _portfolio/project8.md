@@ -6,7 +6,7 @@ collection: portfolio
 
 Virtual Gums is a medical software for dentists. I participated in developing the undercut generation in this project.
 
-For the undercut generation, my duty is to design a specific algorithm to generate the undercut model automatically.
+For the undercut generation, my duty is to design a specific algorithm to generate the undercut model automatically, making the dentists' lives easier.
 
 ## Restruction of Tooth Undercut Features
 
