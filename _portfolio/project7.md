@@ -6,7 +6,7 @@ collection: portfolio
 
 Virtual Gums is a medical software for dentists. I participated in developing the collision detection(broad phase) in this project.
 
-For collision detection, my duty is to use the existing algorithms to make the company's software run faster and also add some extra features(detect the collision between arbitrary two teeth, then print out the apart or embedded distance and visualize the collision area.). The final version takes within 200 ms per computation. Compared to the 2-3 mins at the beginning, it is an improvement.
+For collision detection, my duty is to use the existing algorithms(BVH and Kd tree) to make the company's software run faster and also add some extra features(detect the collision between arbitrary two teeth, then print out the apart or embedded distance and visualize the collision area.). The final version takes within 200 ms per computation. Compared to the 2-3 mins at the beginning, it is an improvement.
 
 ## Collision Detection Part Features：
 
