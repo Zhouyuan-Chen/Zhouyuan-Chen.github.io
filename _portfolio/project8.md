@@ -1,12 +1,12 @@
 ---
-title: "Tooth Undercut Model Generation"
+title: "Teeth Undercut Model Generation"
 excerpt: "Mesh Reconstruction<br/><img src='/images/tooth/undercut-final result.png' width='40%'>"
 collection: portfolio
 ---
 
 Virtual Gums is a medical software for dentists. I participated in developing the undercut generation in this project.
 
-For the undercut generation, my duty is to design a specific algorithm to generate the undercut model automatically, making the dentists' lives easier.
+For the undercut generation, my duty is to design a specific algorithm to generate the undercut model automatically.
 
 ## Restruction of Tooth Undercut Features
 
