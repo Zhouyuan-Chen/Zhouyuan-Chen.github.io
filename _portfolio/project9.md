@@ -1,11 +1,12 @@
-<!--
-
 ---
 title: "Embedded Remeshing"
 excerpt: "Geometry Processing, Remeshing, Simulation<br/><img src='/images/lego.png' width='40%'>"
 collection: portfolio
 ---
 
+I will update the details later...
+
+<!--
 Embedded Remeshing means using the meshing method to insert a layer between multiple materials, and make materials embedded into a big mesh structure. This technique is very useful to produce a simulation-ready scene with segmented data.
 
 There is an application example(you can find the whole story in our paper):
