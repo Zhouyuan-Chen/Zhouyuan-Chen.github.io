@@ -9,7 +9,7 @@ Embedded Remeshing means using the meshing method to insert a layer between mult
 I will update the details later...
 
 <!--
-This is an example of the application, you can find the whole story in the paper:
+There is an application example(you can find the whole story in our paper):
 
 For instance, we have a NeRF data:
 
