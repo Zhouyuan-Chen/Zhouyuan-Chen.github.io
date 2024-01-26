@@ -6,9 +6,6 @@ collection: portfolio
 
 Embedded Remeshing means using the meshing method to insert a layer between multiple materials, and make materials embedded into a big mesh structure. This technique is very useful to produce a simulation-ready scene with segmented data.
 
-I will update the details later...
-
-<!--
 There is an application example(you can find the whole story in our paper):
 
 For instance, we have a NeRF data:
@@ -24,7 +21,6 @@ Finally, you set the initial setting for each segmentation with different labels
 <img src='/images/lego2.png' width='40%'>
 
 <img src='/images/lego.png' width='40%'>
--->
 
 I learned a lot about implementing remeshing in this project.
 
