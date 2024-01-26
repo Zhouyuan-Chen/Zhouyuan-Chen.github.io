@@ -1,3 +1,5 @@
+<!--
+
 ---
 title: "Embedded Remeshing"
 excerpt: "Geometry Processing, Remeshing, Simulation<br/><img src='/images/lego.png' width='40%'>"
@@ -25,3 +27,5 @@ Finally, you set the initial setting for each segmentation with different labels
 I learned a lot about implementing remeshing in this project.
 
 Oh, I will write a note about the topology preserve for collapse operation soon! Because, in my opinion, it is the most tricky thing in this project.
+
+-->
