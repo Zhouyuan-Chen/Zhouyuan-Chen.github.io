@@ -4,7 +4,7 @@ excerpt: "Geometry Processing, Remeshing, Simulation<br/><img src='/images/lego.
 collection: portfolio
 ---
 
-This is my first project at NYU Geometric Computing Lab. Embedded Remeshing means using a method to insert a layer between multiple materials. This technique is very useful to produce a simulation-ready scene with segmented data.
+Embedded Remeshing means using a method to insert a layer between multiple materials. This technique is very useful to produce a simulation-ready scene with segmented data.
 
 This is an example of the application:
 
