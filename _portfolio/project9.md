@@ -16,7 +16,7 @@ Then you use some software(3D Slicer) to do volumetric segmentation, you don't n
 
 <img src='/images/lego4.png' width='40%'>
 
-Finally, you set the initial setting for each segmentation with different labels, such as velocity, mass, etc. Throw them into the Embedded Remeshing pipeline, and you get the simulation result! So easy, right?
+Finally, you set the initial setting for each segmentation with different labels, such as position, velocity, mass, etc. Throw them into the Embedded Remeshing pipeline, and you get the simulation result! So easy, right?
 
 <img src='/images/lego2.png' width='40%'>
 
