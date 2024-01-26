@@ -6,13 +6,16 @@ collection: portfolio
 
 Embedded Remeshing means using the meshing method to insert a layer between multiple materials, and make materials embedded into a big mesh structure. This technique is very useful to produce a simulation-ready scene with segmented data.
 
-This is an example of the application:
+I will update the details later...
+
+<!--
+This is an example of the application, you can find the whole story in the paper:
 
 For instance, we have a NeRF data:
 
 <img src='/images/lego3.png' width='40%'>
 
-Then you use some software(3D Slicer) to do volumetric segmentation, you don't need to take much time, since the Embedded Remeshing pipeline will help you heal your segmentation:
+Then you use some software(3D Slicer) to do volumetric segmentation, you don't need to worry about if your segmentation will create an ugly mesh since the Embedded Remeshing pipeline will help you heal your segmentation:
 
 <img src='/images/lego4.png' width='40%'>
 
@@ -21,7 +24,7 @@ Finally, you set the initial setting for each segmentation with different labels
 <img src='/images/lego2.png' width='40%'>
 
 <img src='/images/lego.png' width='40%'>
-
+-->
 
 I learned a lot about implementing remeshing in this project.
 
