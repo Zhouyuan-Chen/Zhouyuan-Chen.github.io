@@ -9,7 +9,7 @@ redirect_from:
 
 There are some notes and tutorials I made during my study.
 
-## [Notes for the Implementation of Remeshing]()
+## [Some Details About Implementation of Remeshing]()
 Feb. 2024 (I am working on it...)
 ## [ICP(Iterative Closest Point Algorithm)](../files/Iterative_closest_point_algorithm.pdf)
 Jan. 23, 2024
