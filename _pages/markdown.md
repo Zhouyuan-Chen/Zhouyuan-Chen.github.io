@@ -9,6 +9,9 @@ redirect_from:
 
 There are some notes and tutorials I made during my study.
 
+## [Notes for the Implementation of Remeshing]()
+Feb. 2024 (I am working on it...)
 ## [ICP(Iterative Closest Point Algorithm)](../files/Iterative_closest_point_algorithm.pdf)
-
-## [SVD Derivitive]()
+Jan. 23, 2024
+## [The Jacobian of SVD]()
+Dec. 26, 2023
