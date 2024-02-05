@@ -1,17 +1,27 @@
 ---
 permalink: /markdown/
-title: "Notes and Tutorials"
+title: "Notes"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-There are some notes and tutorials I made during my study.
+There are some notes I made during my study.
 
-## [Some Details About Implementation of Remeshing]()
+## Partial Differential Equations
+2024 (It processes slower than I expected, but I am working on it...)
+
+---
+  
+## Geometry Processing
+#### Implementation of Remeshing
 Feb. 2024 (I am working on it...)
-## [ICP(Iterative Closest Point Algorithm)](../files/Iterative_closest_point_algorithm.pdf)
+#### [Iterative Closest Point Algorithm(ICP)](../files/Iterative_closest_point_algorithm.pdf)
 Jan. 23, 2024
-## [The Jacobian of SVD](../files/The_Jacobian_of_SVD.pdf)
+
+---
+
+## Simulation
+#### [The Jacobian of SVD](../files/The_Jacobian_of_SVD.pdf)
 Dec. 26, 2023
