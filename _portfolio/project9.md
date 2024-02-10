@@ -1,12 +1,12 @@
 ---
 title: "Embedded Remeshing"
-excerpt: "Geometry Processing, Remeshing, Simulation<br/><img src='/images/foo-bar-identity-th.jpg' width='40%'>"
+excerpt: "Geometry Processing, Simulation<br/><img src='/images/foo-bar-identity-th.jpg' width='40%'>"
 collection: portfolio
 ---
 
 Embedded Remeshing means using the meshing method to insert a layer between multiple materials, and make materials embedded into a big mesh structure. This technique is very useful to produce a simulation-ready scene with segmented data.
 
-In this project, I implemented the prototype and modified the algorithm. Later I participated in implementing it with the [wildmeshing-toolkit](https://github.com/wildmeshing/wildmeshing-toolkit). The most exciting thing I learned is the remeshing technique.
+In this project, I implemented the prototype and modified the algorithm. Later I participated in implementing it in 3D with the [wildmeshing-toolkit](https://github.com/wildmeshing/wildmeshing-toolkit). The most exciting thing I learned is the remeshing technique.
 
 You can find the whole story in our paper.(I will upload it later)
 
