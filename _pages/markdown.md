@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 There are some notes I made during my study.
-
-## Partial Differential Equations
-(It processes slower than I expected, but I am working on it...)
-
----
   
 ## Geometry Processing
 * Implementation of Remeshing -- Feb. 2024 (I am working on it...)
