@@ -10,7 +10,6 @@ redirect_from:
 There are some notes I made during my study.
   
 ## Geometry Processing
-* Implementation of Remeshing -- Feb. 2024 (I am working on it...)
 * [Iterative Closest Point Algorithm(ICP)](../files/Iterative_closest_point_algorithm.pdf) -- Jan. 23, 2024
 
 ---
