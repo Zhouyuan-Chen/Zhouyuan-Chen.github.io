@@ -1,7 +1,7 @@
 ---
-title: "Grader"
+title: "Intro to Computer Science(undergraduate course)"
 collection: teaching
-type: "Intro to Computer Science(undergraduate course)"
+type: "Grader"
 permalink: /teaching/teaching1
 venue: "New York University, Department of Computer Science"
 date: 2024-01-22

@@ -1,8 +1,9 @@
 ---
-title: "Teaching Assistant"
+title: "Geometric Modelling(graduate course)"
 collection: teaching
-type: "Geometric Modelling(graduate course)"
-permalink: /teaching/teaching2
+type: "Teaching Assistant"
+permalink: https://github.com/danielepanozzo/gp
+# permalink: /teaching/teaching2
 venue: "New York University, Department of Computer Science"
 date: 2024-01-22
 location: "New York City, United States"
