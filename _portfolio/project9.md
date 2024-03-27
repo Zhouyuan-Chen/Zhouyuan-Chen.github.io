@@ -1,6 +1,6 @@
 ---
 title: "Embedded Remeshing"
-excerpt: "Remeshing and Simulation<br/><img src='/images/lego2.png' width='40%'>"
+excerpt: "Remeshing and Simulation<br/><img src='/images/lego2.png' width='50%'>"
 collection: portfolio
 ---
 
