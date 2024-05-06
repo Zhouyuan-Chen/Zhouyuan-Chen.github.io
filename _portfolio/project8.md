@@ -24,4 +24,4 @@ For the undercut generation, my duty is to design a specific algorithm to genera
 
 * Performance
 
-[![Video](/images/tooth/video%20poster2.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
+[![Video](/images/tooth/video%20poster2.png)](https://www.youtube.com/watch?v=vhRDIrhJ9h4)
