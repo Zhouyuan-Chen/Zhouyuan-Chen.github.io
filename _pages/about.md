@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Zhouyuan Chen(could be pronounced like Jo-Yen Chan, you can also call me Cavers if it is easier for you to pronounce).
+I am Zhouyuan Chen, a graduate student studying at the New York University Courant Institute, interested in Computer Graphics(especially for geometry processing and numerical simulation). I am fortunate to have the opportunity to work in the [NYU Geometric Computing Lab](https://cims.nyu.edu/gcl/people.html) now, supervised by Professor [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) and Professor [Daniel Zint](https://daniel-zint.github.io/). Before that, I worked on medical model software development, supervised by Professor [Jiazhou Chen](https://californiachen.github.io/) at Zhejiang University of Technology.
 
-Currently, I'm a graduate student studying at the New York University Courant Institute, interested in Computer Graphics(especially for geometry processing and physically based simulation). I am fortunate to have the opportunity to work in the [NYU Geometric Computing Lab](https://cims.nyu.edu/gcl/people.html) now, supervised by Professor [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html) and Professor [Daniel Zint](https://daniel-zint.github.io/). Before that, I was supervised by Professor [Jiazhou Chen](https://californiachen.github.io/) at Zhejiang University of Technology.
+My name could be pronounced like Chow-Yan Chan, you can also call me Cavers if it is easier for you to pronounce.
 
-If you ask me why I love Computer Graphics. The answer would be the most romantic thing I can imagine is using code to showcase the world! 
+If you ask me why chose Graphics? The answer must be Graphics is the most romantic thing I can imagine!
