@@ -12,4 +12,4 @@ I am Zhouyuan Chen, a graduate student studying at the New York University Coura
 
 My name could be pronounced like Chow-Yan Chan, you can also call me Cavers if it is easier for you to pronounce.
 
-If you ask me why chose Graphics? The answer must be Graphics is the most romantic thing I can imagine!
+If you ask me why Graphics? The answer must be that graphics is the most romantic thing I can imagine!
