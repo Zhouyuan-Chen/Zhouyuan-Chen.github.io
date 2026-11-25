@@ -109,6 +109,38 @@ h2 {
   font-size: 32px;
 }
 
+.profile-photo {
+  margin: 0;
+}
+
+.profile-photo > a {
+  display: block;
+}
+
+.profile-photo img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.profile-caption {
+  max-width: 28ch;
+  margin: 22px auto 0;
+  color: #666;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1.7;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.profile-caption > span {
+  display: block;
+}
+
 .one {
   width: 160px;
   height: 160px;
